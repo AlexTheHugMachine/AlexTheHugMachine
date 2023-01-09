@@ -1,8 +1,13 @@
-### Hello there 👋
+![](hellothere.gif)
 >*General Kenobi!*
 
-I'm a computer science student at the University Claude Bernard Lyon 1.  
-I aim to work in the field of __3D__.  
+# Glad to see you there ! :raised_hands:  
+
+### Who am I?
+:cyclone: I'm a computer science student at the University Claude Bernard Lyon 1.  
+
+### What do I want to do later?
+:cyclone: I aim to work in the field of __3D__. You know, live my life with what I love.  
 
 Fun fact : I love __memes and programming__ :dizzy:
 
