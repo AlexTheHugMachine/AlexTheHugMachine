@@ -9,7 +9,7 @@
 ### What do I want to do later?
 :cyclone: I aim to work in the field of __3D__. You know, live my life with what I love.  
 
-Fun fact : I love __memes and programming__ :dizzy:
+Fun fact : I love __memes and programming__ (*and Star Wars*) :dizzy:  
 
 <!--
 **AlexTheHugMachine/AlexTheHugMachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
