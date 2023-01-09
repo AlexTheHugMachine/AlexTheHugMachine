@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+>*General Kenobi!*
+
+I'm a computer science student at the University Claude Bernard Lyon 1.  
+I aim to work in the field of __3D__.  
+
+Fun fact : I love __memes and programming__ :dizzy:
 
 <!--
 **AlexTheHugMachine/AlexTheHugMachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
