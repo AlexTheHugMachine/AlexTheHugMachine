@@ -1,13 +1,7 @@
 ![](hellothere.gif)
 >*General Kenobi!*
 
-# Glad to see you there ! :raised_hands:  
-
-### Who am I?
-:cyclone: I'm a computer science student at the University Claude Bernard Lyon 1.  
-
-### What do I want to do later?
-:cyclone: I aim to work in the field of __3D__, __Image Processing__ or __AI__.  
+# Glad to see you there ! :raised_hands:    
 
 Fun fact : I love __memes and programming__ (*and Star Wars*) :dizzy:  
 
